@@ -1,7 +1,7 @@
 ### Hola, cómo estan? 👋
 
 Mi nombre es Federico Buen
-Soy estudiante de Ingenieria en computación de la Universidad de Tres de Febrero
+Soy estudiante de la UNGS, actualmente cursando la Licenciatura en Sistemas
 Egresado de la UTN FRGP con el titulo de Técnico Superior en Sistemas Informaticos en el año 2012, mi deseo es seguir
 estudiando este maravilloso mundo de la computación.
 
